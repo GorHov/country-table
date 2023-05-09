@@ -1,0 +1,27 @@
+.container {
+    margin: 0 auto;
+    padding-top: 40px;
+  }
+  
+  .search-container {
+    margin-bottom: 20px;
+  }
+  
+  .pagination-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .btn-primary,
+  .btn-secondary {
+    margin: 0;
+  }
+  
+  .custom-header {
+    background-color: #F4F4F4;
+    color: #9F9F9F;
+    text-transform: uppercase;
+  }
+  
+  
